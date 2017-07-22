@@ -1,5 +1,5 @@
 # CyrillicProgramming
-Inspiring by Scratch. The program takes code on own cyrillic language from console and starts creating program.
+Inspiring by Scratch. The program takes code on it`s own cyrillic language from console and starts creating program.
 
 -----
 22.07.17
